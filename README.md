@@ -27,4 +27,4 @@ Instructor: James Clark, Prof.
 1. K-Means and Mean-Shift Clustering for Segmentation
 2. Neural Network Implementation for Image Segmentation
 
-## Final Project (with [ZhanyueZ][https://github.com/ZhanyueZ]
+## Final Project (with [ZhanyueZ](https://github.com/ZhanyueZ)
