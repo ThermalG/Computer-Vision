@@ -1,5 +1,6 @@
 # Computer-Vision
 This is a collective codebase of McGill Univeristy ECSE 415 assignments, F2023.
+
 Instructor: James Clark, Prof.
 
 ## Assignment I - Image Filtering and Corner Detection
