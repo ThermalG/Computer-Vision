@@ -11,7 +11,7 @@
         `8.`8'          8 8888 `8b.  ;8.`8888  8 8888  ` 8888     ,88'   8         `Y8o.` 
          `8.`           8 8888  `Y8888P ,88P'  8 8888     `8888888P'     8            `Yo 
 ```
-This is a collective codebase of McGill Univeristy ECSE 415 assignments, F2023.
+This is a collective codebase of McGill Univeristy ECSE 415 F2023 assignments:)
 
 Instructor: James Clark, Prof.
 
@@ -39,5 +39,6 @@ Instructor: James Clark, Prof.
 ## Assignment V - Segmentation
 1. K-Means and Mean-Shift Clustering for Segmentation;
 2. Neural Network Implementation for Image Segmentation.
+(NOTE: With help provided by ChatPGT)
 
 ## Final Project (with [ZhanyueZ](https://github.com/ZhanyueZ))
