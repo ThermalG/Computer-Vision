@@ -10,7 +10,6 @@ ECSE 415 F2023 assignments\q88888|- \l           !\_/|88888p/Instructor: Prof. J
                            'q8888l\-//\         / /\|!8888P'
                              'q888\/-| "-,___.-^\/-\/888P'
                                `=88\./-/|/ |-/!\/-!/88='
-
 `8.`888b           ,8'  8 8888    d888888o.    8 8888     ,o888888o.     b.             8 
  `8.`888b         ,8'   8 8888  .`8888:' `88.  8 8888  . 8888     `88.   888o.          8 
   `8.`888b       ,8'    8 8888  8.`8888.   Y8  8 8888 ,8 8888       `8b  Y88888o.       8 
@@ -43,10 +42,10 @@ ECSE 415 F2023 assignments\q88888|- \l           !\_/|88888p/Instructor: Prof. J
 ## Assignment IV - Neural Networks
 1. CIFAR-10 Classification using Convolution Neural Network;
 2. YOLO Object Detection on Montréal Streets.
+(NOTE: With help provided by ChatPGT)
 
 ## Assignment V - Segmentation
 1. K-Means and Mean-Shift Clustering for Segmentation;
 2. Neural Network Implementation for Image Segmentation.
-(NOTE: With help provided by ChatPGT)
 
 ## Final Project (with [ZhanyueZ](https://github.com/ZhanyueZ))
