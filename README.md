@@ -5,7 +5,7 @@
                             ,:d8888P^//\-\/_\ /_\/^q888/b.
                           ,;d88888/~-/ .-~  _~-. |/-q88888b,
 This repo is a collective//8888887-\ _/    (#)  \\-\/Y88888b\codebase of McGill Univeristy
-                         \8888888|// T      `    Y _/|888888 o
+                         \8888888|// T      `    Y _/|888888-o
 ECSE 415 F2023 assignments\q88888|- \l           !\_/|88888p/Instructor: Prof. James Clark
                            'q8888l\-//\         / /\|!8888P'
                              'q888\/-| "-,___.-^\/-\/888P'
@@ -41,7 +41,7 @@ ECSE 415 F2023 assignments\q88888|- \l           !\_/|88888p/Instructor: Prof. J
 
 ## Assignment IV - Neural Networks
 1. CIFAR-10 Classification using Convolution Neural Network;
-2. YOLO Object Detection on Montréal Streets.
+2. YOLO Object Detection on Montréal Streets.<br>
 (NOTE: With help provided by ChatPGT)
 
 ## Assignment V - Segmentation
