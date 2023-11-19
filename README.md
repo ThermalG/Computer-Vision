@@ -40,9 +40,9 @@ ECSE 415 F2023 assignments\q88888|- \l           !\_/|88888p/Instructor: Prof. J
 2. Face Recognition System.
 
 ## Assignment IV - Neural Networks
+(NOTE: With help provided by ChatGPT)
 1. CIFAR-10 Classification using Convolution Neural Network;
-2. YOLO Object Detection on Montréal Streets.<br>
-(NOTE: With help provided by ChatPGT)
+2. YOLO Object Detection on Montréal Streets.
 
 ## Assignment V - Segmentation
 1. K-Means and Mean-Shift Clustering for Segmentation;
