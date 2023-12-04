@@ -2,6 +2,7 @@
 Bonus Project from **ECSE 444** Microprocessors
 
 Data collection credit to Chenyi Xu
-Supporting motion types: Still; Walking; Jumping; Running; Breaststroke; Clapping
+Supported motion types in our dataset (olympics.zip): Still; Walking; Jumping; Running; Breaststroke; Clapping. Note that this exemplary dataset is quite small and can be inaccurate.
 
-This model works on 3D motion data ((x, y, z) from like accelerometer) in csv files. An exemplary dataset can be found in 'olympics.zip'. The program automatically standardizes the data points, which are then trained with a CNN and tested using a confusion matrix.
+This model works on 3D motion data (like accelerometer) from csv files. It automatically standardizes (unify encodings, remove invalid rows, fragmentation) the data points, which are then trained with a CNN and tested using a confusion matrix.
+You may customize frame stride (default 26 data points since our sampling rate is 26Hz) and overlapping (13 data points, 50%).
