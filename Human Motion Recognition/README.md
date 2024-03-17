@@ -1,4 +1,4 @@
-## Human Motion Recognition (HMR)
+## Human Motion Recognition (HMR) for STM32 MCUs
 *Project from **ECSE 444** Microprocessors*
 
 Data collection credit to Chenyi Xu.
