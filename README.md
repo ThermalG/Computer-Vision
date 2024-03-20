@@ -48,7 +48,7 @@ ECSE 415 F2023 assignments\q88888|- \l           !\_/|88888p/Instructor: Prof. J
 1. K-Means and Mean-Shift Clustering for Segmentation;
 2. Neural Network Implementation for Image Segmentation.
 
-## Final Project (with [ZhanyueZ](https://github.com/ZhanyueZ))
+## Final Project
 Write a python program that will analyze the two dashcam videos provided (mcgill_drive.mp4 and st-catherines_drive.mp4, each are 30 frames per second, and are taken with the same car/dashcam) and provide the following analytics:
 
 Number of parked cars passed
