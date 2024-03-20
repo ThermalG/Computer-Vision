@@ -1,5 +1,5 @@
 ## Human Motion Recognition (HMR) for STM32 MCUs
-*Project from **ECSE 444** Microprocessors*
+*Project from **ECSE 444** Microprocessors*\
 Instructor: Prof. Brett Meyer
 
 Data collection credit to Chenyi Xu.
